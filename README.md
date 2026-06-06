@@ -10,6 +10,8 @@
 
 **BATCH DURATION**: MAY 9th, 2026 TO JUNE 6th, 2026
 
+**MENTOR**: NEELA SANTOSH
+
 **ETL Pipeline Development Using Pandas and Scikit-Learn**
 
 The objective of this project is to develop an ETL (Extract, Transform, Load) pipeline using Python, Pandas, and Scikit-Learn. ETL pipelines are widely used in data engineering and machine learning workflows to prepare raw data for analysis and model training. This pipeline automates the process of loading data, cleaning and transforming it, splitting it into training and testing sets, and finally saving the processed data for future use.
