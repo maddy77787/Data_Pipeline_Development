@@ -1,2 +1,11 @@
 # Data_Pipeline_Development
-Create a complete ETL (Extract, Transform, Load) data pipeline using Python libraries such as Pandas and Scikit-learn.
+
+**COMPANY**: CODTECH IT SOLUTIONS
+
+**NAME**: kORSIPATI MIDHILESH REDDY
+
+**INTERN ID**: CTIS9177
+
+**DOMAIN**: DATA SCIENCE
+
+**BATCH DURATION**: MAY 9th, 2026 TO JUNE 6th, 2026
